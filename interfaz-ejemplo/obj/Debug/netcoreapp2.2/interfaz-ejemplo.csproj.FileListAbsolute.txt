@@ -1,0 +1,11 @@
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\obj\Debug\netcoreapp2.2\interfaz-ejemplo.csprojAssemblyReference.cache
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\obj\Debug\netcoreapp2.2\interfaz-ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\obj\Debug\netcoreapp2.2\interfaz-ejemplo.AssemblyInfoInputs.cache
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\obj\Debug\netcoreapp2.2\interfaz-ejemplo.AssemblyInfo.cs
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\bin\Debug\netcoreapp2.2\interfaz-ejemplo.deps.json
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\bin\Debug\netcoreapp2.2\interfaz-ejemplo.runtimeconfig.json
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\bin\Debug\netcoreapp2.2\interfaz-ejemplo.runtimeconfig.dev.json
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\bin\Debug\netcoreapp2.2\interfaz-ejemplo.dll
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\bin\Debug\netcoreapp2.2\interfaz-ejemplo.pdb
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\obj\Debug\netcoreapp2.2\interfaz-ejemplo.dll
+C:\Users\Java\Documents\c-sharp\interfaz-ejemplo\obj\Debug\netcoreapp2.2\interfaz-ejemplo.pdb

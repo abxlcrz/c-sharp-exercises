@@ -1,0 +1,11 @@
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\obj\Debug\netcoreapp2.2\newprogram.csprojAssemblyReference.cache
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\obj\Debug\netcoreapp2.2\newprogram.csproj.CoreCompileInputs.cache
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\obj\Debug\netcoreapp2.2\newprogram.AssemblyInfoInputs.cache
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\obj\Debug\netcoreapp2.2\newprogram.AssemblyInfo.cs
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\bin\Debug\netcoreapp2.2\newprogram.deps.json
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\bin\Debug\netcoreapp2.2\newprogram.runtimeconfig.json
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\bin\Debug\netcoreapp2.2\newprogram.runtimeconfig.dev.json
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\bin\Debug\netcoreapp2.2\newprogram.dll
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\bin\Debug\netcoreapp2.2\newprogram.pdb
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\obj\Debug\netcoreapp2.2\newprogram.dll
+C:\Users\Java\Documents\c-sharp\TDD\newprogram\obj\Debug\netcoreapp2.2\newprogram.pdb

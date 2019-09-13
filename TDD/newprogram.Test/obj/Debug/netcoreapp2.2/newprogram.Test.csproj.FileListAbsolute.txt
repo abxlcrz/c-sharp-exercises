@@ -1,0 +1,4 @@
+C:\Users\Java\Documents\c-sharp\TDD\newprogram.Test\obj\Debug\netcoreapp2.2\newprogram.Test.csprojAssemblyReference.cache
+C:\Users\Java\Documents\c-sharp\TDD\newprogram.Test\obj\Debug\netcoreapp2.2\newprogram.Test.csproj.CoreCompileInputs.cache
+C:\Users\Java\Documents\c-sharp\TDD\newprogram.Test\obj\Debug\netcoreapp2.2\newprogram.Test.AssemblyInfoInputs.cache
+C:\Users\Java\Documents\c-sharp\TDD\newprogram.Test\obj\Debug\netcoreapp2.2\newprogram.Test.AssemblyInfo.cs
